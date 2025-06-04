@@ -1,4 +1,4 @@
-# Harmonic-Error
+# App 1/365: Harmonic-Error
 
 This is an app that displays a pulsating gradient, shifting colors in a seemingly chaotic way, synchronized with strange glitchy sounds (or their imitation). At some point, the screen begins to "break down," glitching — as if the app is malfunctioning or something is trying to escape from it.
 
